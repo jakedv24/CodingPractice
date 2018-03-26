@@ -13,7 +13,7 @@ You are expected to comment everything you write and use perfect syntax (it will
 --------------------------
 
 --------- GOAL -----------
-In the TODO.java file, there is an empty 'main' method. Your goal is to construct a PoolBall object, then print a single line with information about the ball (format below).
+In the ~TODO.java file, there is an empty 'main' method. Your goal is to construct a PoolBall object, then print a single line with information about the ball (format below).
 
 FORMAT (AKA What your console output should look like): "Pool ball #[insert ball number here], color: [insert color here]"
 
@@ -23,6 +23,6 @@ EXAMPLE:
 Given that you constructed your PoolBall with number 35 and color cyan, as one does, your console will output: "Pool ball #35, color: cyan"
 --------------------------
 
------- When Finished -----
-Make a merge request with the 'solutions' branch. I will review/test your code, comment feedback, then accept or deny your merge request.
+------ WHEN FINISHED -----
+Make a merge request with the 'master' branch. I will review/test your code, comment feedback, then will either accept or deny your merge request.
 --------------------------
