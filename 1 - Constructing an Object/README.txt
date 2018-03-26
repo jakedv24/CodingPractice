@@ -5,6 +5,8 @@ This class holds the logic of a single pool ball in a game of pool/billiards.
 
 I'm not going to explain any more about the Class. I want you to look at the javadoc comments provided in the files and figure it our based on that info/the method information.
 
+I would suggest creating a new package for each practice problem, this one should be titled 'constructingAnObject'.
+
 You are expected to comment everything you write and use perfect syntax (it will help me tremendously as well as yourself in the long run).
 
 **IF YOU HAVE QUESTIONS**, please raise an issue, and I will be happy to help you. I won't give you the answer but I will vaguely point you in the right direction with general hints/reminders. Ultimately, it is on you to figure it out, and this will solidify your knowledge.
