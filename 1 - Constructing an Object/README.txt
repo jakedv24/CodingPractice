@@ -1,4 +1,6 @@
 --------- INTRO ----------
+****THE BASE CODE IS SAVED IN TODO.java, USE 'solutions/[NAME].java' (in the solutions folder) TO WORK/TURN IN YOUR CODE.****
+
 In this problem, you are given a class called PoolBall (in the file PoolBall.java, duh, remember that hopefully ALWAYS, Class files are named the same as the class name).
 
 This class holds the logic of a single pool ball in a game of pool/billiards.
@@ -13,7 +15,7 @@ You are expected to comment everything you write and use perfect syntax (it will
 --------------------------
 
 --------- GOAL -----------
-In the ~TODO.java file, there is an empty 'main' method. Your goal is to construct a PoolBall object, then print a single line with information about the ball (format below).
+In the TODO.java file, there is an empty 'main' method. Your goal is to construct a PoolBall object, then print a single line with information about the ball (format below).
 
 FORMAT (AKA What your console output should look like): "Pool ball #[insert ball number here], color: [insert color here]"
 
