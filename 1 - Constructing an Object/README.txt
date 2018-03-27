@@ -5,7 +5,7 @@ In this problem, you are given a class called PoolBall (in the file PoolBall.jav
 
 This class holds the logic of a single pool ball in a game of pool/billiards.
 
-I'm not going to explain any more about the Class. I want you to look at the javadoc comments provided in the files and figure it our based on that info/the method information.
+I'm not going to explain any more about the Class. I want you to look at the javadoc comments provided in the files and figure it out based on that info/the method information.
 
 I would suggest creating a new package for each practice problem, this one should be titled 'constructingAnObject'.
 
