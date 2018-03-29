@@ -1,6 +1,6 @@
 package conditionalStatements;
 
-public class Jake {
+public class TODO {
 	
 	/**
 	 * Determines if string a and b are the same word
